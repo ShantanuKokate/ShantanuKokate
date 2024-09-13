@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **Cloud native projects**
 
-- 🤝 I’m looking for help with **DevOps**
-
 - 💬 Ask me about **DevOps**
 
 - 📫 How to reach me **shantanukokate3@gmail.com**
