@@ -1,5 +1,16 @@
 # 💫 About Me:
-🔭 DevOps & Cloud Engineer with expertise in delivering scalable, cloud-based solutions. Proficient in transforming business requirements into efficient, automated, and reliable infrastructure systems.<br>🌱 My interests lie in Automation and DevOps.<br>Exploring DevOps and excited to collaborate on fun and challenging projects!<br>🤝 I excel in Project Management, System Architecture, Decision Making, and Collaborative Communication.<br>💬 Ask me about DevOps, Cloud Technologies, Automation, and System Architecture.<br>⚡ Fun fact The direwolves in Game of Thrones were based on real wolf breeds, with the Stark children forming a special bond with their "wolf" companions throughout the series!
+• 🔭 **DevOps & Cloud Engineer** with expertise in delivering scalable, cloud-based solutions. Proficient in transforming business requirements into efficient, automated, and reliable infrastructure systems.
+
+• 🌱 **Interests**: My interests lie in Automation and DevOps.
+
+• 🚀 **Exploration**: Exploring DevOps and excited to collaborate on fun and challenging projects!
+
+• 🤝 **Skills**: I excel in Project Management, System Architecture, Decision Making, and Collaborative Communication.
+
+• 💬 **Ask Me About**: DevOps, Cloud Technologies, Automation, and System Architecture.
+
+• ⚡ **Fun Fact**: The direwolves in *Game of Thrones* were based on real wolf breeds, with the Stark children forming a special bond with their "wolf" companions throughout the series!
+
 
 
 ## 🌐 Socials:
